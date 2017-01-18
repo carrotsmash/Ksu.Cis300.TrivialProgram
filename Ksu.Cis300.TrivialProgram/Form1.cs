@@ -1,5 +1,5 @@
 ﻿/* Form1.cs
- * Author: Garret Whitson
+ * Author: Garret Whitson 
  */
 using System;
 using System.Collections.Generic;
